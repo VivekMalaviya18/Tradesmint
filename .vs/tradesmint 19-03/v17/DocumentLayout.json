@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\tradesmint 19-03_bca_sem_6\\tradesmint 19-03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\tradesmint 19-03_bca_sem_6\\tradesmint 19-03\\user\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:user\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\tradesmint 19-03_bca_sem_6\\tradesmint 19-03\\user\\MasterPage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:user\\MasterPage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\tradesmint 19-03_bca_sem_6\\tradesmint 19-03\\admin\\courses.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:admin\\courses.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\tradesmint 19-03_bca_sem_6\\tradesmint 19-03\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\tradesmint 19-03_bca_sem_6\\tradesmint 19-03\\admin\\MasterPage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:admin\\MasterPage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dashboard.aspx",
+              "DocumentMoniker": "E:\\tradesmint 19-03_bca_sem_6\\tradesmint 19-03\\user\\dashboard.aspx",
+              "RelativeDocumentMoniker": "user\\dashboard.aspx",
+              "ToolTip": "E:\\tradesmint 19-03_bca_sem_6\\tradesmint 19-03\\user\\dashboard.aspx",
+              "RelativeToolTip": "user\\dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-15T08:24:18.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MasterPage.master",
+              "DocumentMoniker": "E:\\tradesmint 19-03_bca_sem_6\\tradesmint 19-03\\user\\MasterPage.master",
+              "RelativeDocumentMoniker": "user\\MasterPage.master",
+              "ToolTip": "E:\\tradesmint 19-03_bca_sem_6\\tradesmint 19-03\\user\\MasterPage.master",
+              "RelativeToolTip": "user\\MasterPage.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-15T08:24:05.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "courses.aspx",
+              "DocumentMoniker": "E:\\tradesmint 19-03_bca_sem_6\\tradesmint 19-03\\admin\\courses.aspx",
+              "RelativeDocumentMoniker": "admin\\courses.aspx",
+              "ToolTip": "E:\\tradesmint 19-03_bca_sem_6\\tradesmint 19-03\\admin\\courses.aspx",
+              "RelativeToolTip": "admin\\courses.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-15T08:23:46.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dashboard.aspx",
+              "DocumentMoniker": "E:\\tradesmint 19-03_bca_sem_6\\tradesmint 19-03\\admin\\dashboard.aspx",
+              "RelativeDocumentMoniker": "admin\\dashboard.aspx",
+              "ToolTip": "E:\\tradesmint 19-03_bca_sem_6\\tradesmint 19-03\\admin\\dashboard.aspx",
+              "RelativeToolTip": "admin\\dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-15T08:23:26.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MasterPage.master",
+              "DocumentMoniker": "E:\\tradesmint 19-03_bca_sem_6\\tradesmint 19-03\\admin\\MasterPage.master",
+              "RelativeDocumentMoniker": "admin\\MasterPage.master",
+              "ToolTip": "E:\\tradesmint 19-03_bca_sem_6\\tradesmint 19-03\\admin\\MasterPage.master",
+              "RelativeToolTip": "admin\\MasterPage.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-15T08:22:58.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
